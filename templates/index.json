@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "header": {
+      "type": "header"
+    },
+    "categorias": {
+      "type": "categorias"
+    },
+    "slide": {
+      "type": "slide"
+    }
+  },
+  "order": ["header", "categorias", "slide"]
+}

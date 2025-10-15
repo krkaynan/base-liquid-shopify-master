@@ -1,0 +1,15 @@
+<section class="categorias">
+  <div class="itens">
+    {% for collection in collections %}
+      <p>{{ collection.title }}</p>
+    {% endfor %}
+  </div>
+</section>
+
+<style>
+  section.categorias {
+    display: flex;
+  }
+</style>
+
+<script></script>

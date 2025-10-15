@@ -26,7 +26,3 @@
 - Configurações via `config/settings_schema.json`
 - Exemplo de fluxo para desenvolvimento local com `shopify theme dev` / `shopify theme serve`
 - Regras de formatação via `.editorconfig` e `.prettierrc`
-
----
-
-## Estrutura do projeto (conforme enviado)

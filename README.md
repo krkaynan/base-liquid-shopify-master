@@ -12,14 +12,6 @@
 
 ---
 
-## Badges
-- Build: `GitHub Actions`
-- License: `MIT`
-- Issues: `Good first issue`
-- Shopify CLI: `Requer Shopify CLI v3+`
-
----
-
 ## Recursos principais
 - Arquitetura modular (sections + snippets)
 - Compatível com JSON templates do Online Store 2.0

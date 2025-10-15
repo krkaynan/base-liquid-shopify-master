@@ -1,6 +1,7 @@
 # base-liquid-shopify-master
 
 > Tema base em **Liquid** para Shopify
+> 
 > Autor: **Kaynan Raikkonen**.  
 > Email: **raikkonenkaynan@gmail.com**
 

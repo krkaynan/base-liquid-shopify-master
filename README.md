@@ -13,7 +13,6 @@
 ---
 
 ## Badges
-> (adicione estes badges no GitHub conforme desejar — aqui apenas sugestão textual)
 - Build: `GitHub Actions`
 - License: `MIT`
 - Issues: `Good first issue`
